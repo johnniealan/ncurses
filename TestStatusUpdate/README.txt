@@ -1,4 +1,4 @@
-This is the sample code for test case statys update in console using ncurses.
+This is the sample code for test case status update in console using ncurses.
 
 It has three columns viz Tst case name, Time taken, Status
 
